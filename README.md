@@ -11,5 +11,4 @@ You will basically use the following questions to understand what it is. These a
 ###### 3 - How EIPs Evolve?
 ###### 4 - Why are EIP important?
 ###### 5 - Examples of famous EIPs.
-###### 5.1 Explain the [Name of the famous EIP listed on the README].
 ###### 6 - Where can I learn more about this?
